@@ -104,18 +104,18 @@
 
 ### :fire: My Github Stats :
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narzullaevobidjon&" alt="narzullaevobidjon" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shokh001&" alt="shokh001" /></p> -->
 
    <p align="center">
           <a href="https://github.com/shokh001/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shokh001&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=narzullaevobidjon&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shokh001&theme=gruvbox&hide_border=true" />
           </a>
        </p>
 
 <p align="center">
         <a href="https://github.com/shokh001/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narzullaevobidjon&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokh001&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: overall Top Langs " /></a>
       </p>
       
