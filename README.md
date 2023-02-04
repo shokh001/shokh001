@@ -16,7 +16,7 @@
 <pre>
 💻 I am a Front-End developer.
 📚 I have a Bachelors in Computer Engineering from Tashkent University of Information Technologies.
-📝 I have a strong interest in Data Science, Artificial Intelligence and Web development.
+📝 I have a strong interest in Artificial Intelligence and Web development.
 🌟 Main languages: JavaScript, React.js, Next.js
 </pre>
 <hr>
