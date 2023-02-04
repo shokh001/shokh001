@@ -14,7 +14,7 @@
 
 <hr>
 <pre>
-💻 I am Front-End developer.
+💻 I am a Front-End developer.
 📚 I have a Bachelors in Computer Engineering from Tashkent University of Information Technologies.
 📝 I have a strong interest in Data Science, Artificial Intelligence and Web development.
 🌟 Main languages: JavaScript, React.js, Next.js
@@ -38,8 +38,6 @@
     <img alt="Java" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
   </a>
 </p>
-
-&emsp;
 
 ### 👉 Frameworks
 <p>
