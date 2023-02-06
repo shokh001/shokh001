@@ -1,6 +1,6 @@
 
 <h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Shohjahon Dilmurodov!;Welcome+to+my+GitHub+Profile!">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi!+Welcome+to+my+GitHub+Profile!">
 </h1>
 
 <h1 align="center">
@@ -70,10 +70,10 @@
    <img src="https://img.shields.io/badge/Material UI%20-%23F7DF1E.svg?&style=for-the-badge&color=blue" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Antd%20-%23F7DF1E.svg?&style=for-the-badge&color=yellow" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Reactrouterdom%20-%23F7DF1E.svg?&style=for-the-badge&color=red" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/React-Hooks%20-%23F7DF1E.svg?&style=for-the-badge&color=blue" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/ReactHooks%20-%23F7DF1E.svg?&style=for-the-badge&color=blue" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?&style=for-the-badge&color=c603fc" />&nbsp;&nbsp;
- 
-	
+   <img src="https://img.shields.io/badge/Formik%20-%23F7DF1E.svg?&style=for-the-badge&color=0052CC" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Yup%20-%23F7DF1E.svg?&style=for-the-badge&color=orange" />&nbsp;&nbsp;	
 </p>
 
 ## 📘 My top open source projects
