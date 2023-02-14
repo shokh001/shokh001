@@ -50,8 +50,9 @@
 <p>
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
  </p>
 
  ### 👉 Software & Tools
@@ -71,34 +72,13 @@
    <img src="https://img.shields.io/badge/Antd%20-%23F7DF1E.svg?&style=for-the-badge&color=yellow" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Reactrouterdom%20-%23F7DF1E.svg?&style=for-the-badge&color=red" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/ReactHooks%20-%23F7DF1E.svg?&style=for-the-badge&color=blue" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/React_Query_%20-%23F7DF1E.svg?&style=for-the-badge&color=c42d2d" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?&style=for-the-badge&color=c603fc" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Redux_Toolkit%20-%23F7DF1E.svg?&style=for-the-badge&color=b806c4" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Formik%20-%23F7DF1E.svg?&style=for-the-badge&color=0052CC" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Yup%20-%23F7DF1E.svg?&style=for-the-badge&color=orange" />&nbsp;&nbsp;	
 </p>
 
-## 📘 My top open source projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/shokh001/uzbekvoice"><b>Uzbekvoice</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/shokh001/Portfolio-Website-MERN"><b>Portfolio-Website-MERN</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
 <br>
 
 ### :fire: My Github Stats :
